@@ -1,9 +1,0 @@
-200 OK
-Cache-Control: no-cache
-Content-Length: 418
-Server: Jetty(9.4.19.v20190610)
-Via: 1.1 google
-Retry-Count: 0
-Date: Sun, 31 May 2020 20:45:47 GMT
-Access-Control-Allow-Origin: *
-Content-Type: application/json;charset=utf-8

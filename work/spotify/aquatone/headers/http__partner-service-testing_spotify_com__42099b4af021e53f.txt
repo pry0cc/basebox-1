@@ -1,6 +1,0 @@
-403 Forbidden
-Server: nginx
-Date: Sun, 31 May 2020 20:45:49 GMT
-Content-Type: text/html
-Retry-Count: 0
-Vary: Accept-Encoding

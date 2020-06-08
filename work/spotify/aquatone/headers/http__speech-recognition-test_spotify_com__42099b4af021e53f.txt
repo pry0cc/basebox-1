@@ -1,9 +1,0 @@
-401 Unauthorized
-Retry-Count: 0
-Content-Length: 43
-Content-Type: text/plain
-X-Spotify-Auth-Succeeded: false
-Date: Sun, 31 May 2020 20:46:09 GMT
-Server: envoy
-Via: HTTP/2 edgeproxy, 1.1 google
-Alt-Svc: clear

@@ -1,9 +1,0 @@
-200 OK
-Content-Type: text/html; charset=UTF-8
-Vary: Accept-Encoding
-Retry-Count: 0
-X-Cloud-Trace-Context: 4053198acee564e41a5e19d8da55ac15
-Cache-Control: private
-Link: <https://newsroom.spotify.com/wp-json/>; rel="https://api.w.org/" <https://newsroom.spotify.com/>; rel=shortlink
-Date: Sun, 31 May 2020 20:45:24 GMT
-Server: Google Frontend

@@ -1,7 +1,0 @@
-403 Forbidden
-Set-Cookie: _oauth2_proxy=; Path=/; Domain=alien.spotify.net; Expires=Sun, 31 May 2020 19:45:10 GMT; HttpOnly; Secure
-Server: nginx
-Date: Sun, 31 May 2020 20:45:10 GMT
-Content-Type: text/html; charset=utf-8
-Retry-Count: 0
-Vary: Accept-Encoding

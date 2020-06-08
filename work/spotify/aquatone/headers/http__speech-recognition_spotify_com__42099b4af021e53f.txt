@@ -1,8 +1,0 @@
-404 Not Found
-Date: Sun, 31 May 2020 20:46:09 GMT
-Server: envoy
-Via: HTTP/2 edgeproxy, 1.1 google
-Retry-Count: 0
-Alt-Svc: clear
-Strict-Transport-Security: max-age=31536000
-X-Content-Type-Options: nosniff
