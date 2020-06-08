@@ -1,0 +1,11 @@
+403 Forbidden
+Strict-Transport-Security: max-age=31536000
+Alt-Svc: clear
+Server: envoy
+X-Content-Type-Options: nosniff
+Vary: Accept-Encoding
+Via: HTTP/2 edgeproxy, 1.1 google
+Retry-Count: 0
+Date: Sun, 31 May 2020 20:45:16 GMT
+Content-Type: text/html; charset=ISO-8859-1
+Cache-Control: must-revalidate,no-cache,no-store

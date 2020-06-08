@@ -1,0 +1,15 @@
+404 Not Found
+X-Frame-Options: SAMEORIGIN
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+Server: envoy
+Date: Sun, 31 May 2020 20:45:46 GMT
+Content-Type: text/html; charset=utf-8
+Content-Security-Policy: default-src 'none'
+Strict-Transport-Security: max-age=31536000
+Alt-Svc: clear
+X-Dns-Prefetch-Control: off
+Vary: Origin, Accept-Encoding
+Via: HTTP/2 edgeproxy, 1.1 google
+X-Content-Type-Options: nosniff
+Retry-Count: 0

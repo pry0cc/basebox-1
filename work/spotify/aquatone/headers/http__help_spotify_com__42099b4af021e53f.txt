@@ -1,0 +1,11 @@
+401 Unauthorized
+Server: envoy
+Content-Type: text/html
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+Retry-Count: 0
+Date: Sun, 31 May 2020 20:45:31 GMT
+Www-Authenticate: Basic realm="Spotify Support BETA"
+Vary: Accept-Encoding
+Via: HTTP/2 edgeproxy, 1.1 google
+Alt-Svc: clear

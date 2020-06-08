@@ -1,0 +1,17 @@
+200 OK
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: sp_t=8e7c5dd2-b7ec-4502-8f1a-62566aefac07; Path=/; Domain=.spotify.com; Max-Age=5184000; Expires=Thu, 30 Jul 2020 20:45:40 GMT; Secure sp_new=1; Path=/; Domain=.spotify.com; Max-Age=86400; Expires=Mon, 01 Jun 2020 20:45:40 GMT; Secure sp_landing=https%3A%2F%2Fsupport.spotify.com%2Fus%2F; Path=/; Max-Age=86400; Expires=Mon, 01 Jun 2020 20:45:40 GMT; Secure; HttpOnly sp_landingref=https%3A%2F%2Fsupport.spotify.com%2F; Path=/; Domain=.spotify.com; Max-Age=86400; Expires=Mon, 01 Jun 2020 20:45:40 GMT; Secure; HttpOnly PHPSESSID=b592ddc85f7ccfd969646b3c08c88de1; path=/ spot=%7B%22t%22%3A%22%22%2C%22m%22%3A%22us%22%2C%22p%22%3A%22%22%7D; expires=Sun, 28-Jan-2024 20:45:40 GMT; Max-Age=115516800; path=/; domain=spotify.com spexp=eyJkYXRhIjoiWnhpTFhkVUo1OHkwU1l3TDhFNEMraFl4aURPek05MXJyTW1kVkxQXC9aREkyQTJ4SlFPbHVpUTRqenFtWE95NExWTzIrcGx4V1pHTmowMVkyMkp6cVlmZ2VTcDRPT1VlTjhXOTVWMlVcL0d3TThCWm51Tm01SWFqbmx4T1wvYzdZUnBkeEhOM0grd1g2MWI0Qlg1YlA3TDVzZlwvUEpyb2drVHlhR3A5ZEQ2dm12NmJmcWhxS0hUajcweEs5QTdOVTJDelJMbmZjXC8zdHBPTVpvMU5cL25yaz0iLCJpdiI6Ino4aDZJcXZYTHBIS1wvZGlmN3VVTW9RPT0ifQ%3D%3D%7C34007537ca967ab063332a73c186b9c18f461071799f86110d110f66d9e6aaad; expires=Tue, 30-Jun-2020 20:45:40 GMT; Max-Age=2592000; path=/; secure
+Strict-Transport-Security: max-age=31536000
+Date: Sun, 31 May 2020 20:45:39 GMT
+Content-Security-Policy: base-uri 'none'; connect-src https: wss:; form-action https:; frame-ancestors 'self' https://*.spotify.com https://*.spotify.net; object-src 'none';
+Server: envoy
+Cache-Control: no-cache
+X-Join-The-Band: https://www.spotify.com/jobs/
+Report-To: { "group": "csp-endpoint", "max_age": 86400, "endpoints": [{ "url": "/api/concierge/csp/report-to" }] }
+X-Content-Type-Options: nosniff
+Via: HTTP/2 edgeproxy, 1.1 google
+Retry-Count: 0
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+Alt-Svc: clear

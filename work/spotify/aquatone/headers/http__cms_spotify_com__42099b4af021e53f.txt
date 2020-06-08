@@ -1,0 +1,15 @@
+401 Unauthorized
+Content-Type: text/html; charset=utf-8
+Cache-Control: no-store, no-cache, must-revalidate
+Alt-Svc: clear
+Retry-Count: 0
+Server: envoy
+Date: Sun, 31 May 2020 20:45:35 GMT
+Set-Cookie: PHPSESSID=28efpbll7j83tdms7ql3g7nhrj; expires=Mon, 01-Jun-2020 04:45:35 GMT; Max-Age=28800; path=/; domain=cms.spotify.com
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Via: HTTP/2 edgeproxy, 1.1 google
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+Vary: Accept-Encoding
+Pragma: no-cache
+X-Scatman-Language: en_US.UTF-8

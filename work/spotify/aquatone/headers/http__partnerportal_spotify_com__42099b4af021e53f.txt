@@ -1,0 +1,13 @@
+200 OK
+X-Frame-Options: DENY
+Date: Sun, 31 May 2020 20:45:52 GMT
+X-Xss-Protection: 1; mode=block
+Alt-Svc: h3-27=":443"; ma=2592000,h3-25=":443"; ma=2592000,h3-T050=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q049=":443"; ma=2592000,h3-Q048=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+Cache-Control: no-cache, no-store
+Pragma: no-cache
+X-Content-Type-Options: nosniff
+Content-Type: text/html; charset=UTF-8
+Expires: Mon, 01-Jan-1990 00:00:00 GMT
+Server: GSE
+Content-Security-Policy: script-src 'report-sample' 'nonce-YqlWML7vZUmO1DsLzcINhA' 'unsafe-inline';object-src 'none';base-uri 'self';report-uri /cspreport
+Retry-Count: 0

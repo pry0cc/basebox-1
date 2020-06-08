@@ -1,0 +1,16 @@
+200 OK
+Via: HTTP/2 edgeproxy, 1.1 google
+Retry-Count: 0
+Date: Sun, 31 May 2020 20:45:37 GMT
+Cache-Control: no-cache, no-store, must-revalidate
+X-Content-Security-Policy: default-src 'self'; script-src 'self' https://www.google-analytics.com https://ssl.google-analytics.com https://www.google.com https://www.gstatic.com/recaptcha/ https://www.google.com/recaptcha/ https://accounts.scdn.co; img-src 'self' https://i.imgur.com https://d2mv8tnci56s9d.cloudfront.net https://profile-images.scdn.co https://aci.scdn.co https://graph.facebook.com https://fbcdn-profile-a.akamaihd.net https://*.fbcdn.net https://platform-lookaside.fbsbx.com https://www.google.com https://www.google-analytics.com https://stats.g.doubleclick.net data: https://accounts.scdn.co; font-src 'self' data: https://sp-bootstrap.global.ssl.fastly.net https://fonts.gstatic.com https://accounts.scdn.co; style-src 'self' 'unsafe-inline' https://accounts.scdn.co; frame-src 'self' https://www.spotify.com https://www.google.com https://app.adjust.com https://itunes.apple.com itms-apps: https://www.google.com/recaptcha/; connect-src 'self' https://www.google-analytics.com;
+Alt-Svc: clear
+Content-Type: text/html;charset=utf-8
+Set-Cookie: __Host-device_id=AQBORASJXonV5BppofXPNi-5-nDuVaYKYwVnpQXq1gQaSbxSi4oNenujPeJI6AWzYeK3T6J_GASBG_RMPTXSCeQz41rvAHl1hRs;Version=1;Path=/;Max-Age=2147483647;Secure;HttpOnly;SameSite=Lax __Secure-TPASESSION=AQAwCe+f0TWOZQgkMW1WHLLZV7NOkmco2qu5t8Rad/rhKwcG90TVo3m+8CG9kDLEoEYImzR7jfAq1H17iAQzroEfNdJCluDlSQw=;Version=1;Domain=accounts.spotify.com;Path=/;Secure;HttpOnly;SameSite=None csrf_token=AQBPjgXau6a5_zgRdqldztonTzrGERD1Pc57Nds7i4BUp8AR1m7jNQyHiQpc6DfKwziw1nWXOPlPThON1g;Version=1;Domain=accounts.spotify.com;Path=/;Secure;SameSite=Lax
+X-Ua-Compatible: IE=edge
+Vary: Accept-Encoding
+Pragma: no-cache
+Content-Security-Policy: default-src 'self'; script-src 'self' https://www.google-analytics.com https://ssl.google-analytics.com https://www.google.com https://www.gstatic.com/recaptcha/ https://www.google.com/recaptcha/ https://accounts.scdn.co; img-src 'self' https://i.imgur.com https://d2mv8tnci56s9d.cloudfront.net https://profile-images.scdn.co https://aci.scdn.co https://graph.facebook.com https://fbcdn-profile-a.akamaihd.net https://*.fbcdn.net https://platform-lookaside.fbsbx.com https://www.google.com https://www.google-analytics.com https://stats.g.doubleclick.net data: https://accounts.scdn.co; font-src 'self' data: https://sp-bootstrap.global.ssl.fastly.net https://fonts.gstatic.com https://accounts.scdn.co; style-src 'self' 'unsafe-inline' https://accounts.scdn.co; frame-src 'self' https://www.spotify.com https://www.google.com https://app.adjust.com https://itunes.apple.com itms-apps: https://www.google.com/recaptcha/; connect-src 'self' https://www.google-analytics.com;
+X-Content-Type-Options: nosniff
+Server: envoy
+Strict-Transport-Security: max-age=31536000

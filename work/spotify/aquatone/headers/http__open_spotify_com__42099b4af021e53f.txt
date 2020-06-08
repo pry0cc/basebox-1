@@ -1,0 +1,13 @@
+200 OK
+Strict-Transport-Security: max-age=31536000
+Via: HTTP/2 edgeproxy, 1.1 google
+Server: envoy
+Vary: Accept-Encoding
+Content-Security-Policy: script-src 'self' 'unsafe-eval' open.scdn.co open-review.scdn.co www.google-analytics.com www.googletagmanager.com www.google.com cdn.ravenjs.com vt.myvisualiq.net www.gstatic.com sb.scorecardresearch.com pixel-static.spotify.com 'sha256-ULD8swJHlBFLCIbAFovM3Xinb443OobwJ73kvN9NZLY=' https://www.fastly-insights.com s3.amazonaws.com/ki.js/51746/b0R.js turbo.qualaroo.com; frame-ancestors 'self';
+Alt-Svc: clear
+Date: Sun, 31 May 2020 20:45:25 GMT
+X-Spotify-Open-Index: true
+X-Content-Type-Options: nosniff
+Content-Type: text/html; charset=utf-8
+Set-Cookie: sp_t=32a6bc33c9eb11bfe2c7928e21d3d17e; path=/; expires=Thu, 30 Jul 2020 20:45:25 GMT; domain=.spotify.com; secure sp_landing=https%3A%2F%2Fopen.spotify.com%2F; path=/; expires=Mon, 01 Jun 2020 20:45:25 GMT; secure; httponly
+Retry-Count: 0

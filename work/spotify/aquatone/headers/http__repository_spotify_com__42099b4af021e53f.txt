@@ -1,0 +1,13 @@
+403 Forbidden
+Content-Type: text/html
+Retry-Count: 0
+X-Cache: Error from cloudfront
+Strict-Transport-Security: max-age=31536000
+X-Amz-Cf-Pop: EWR50-C1
+X-Amz-Cf-Id: LkozBq5qZHs5McArUI1v7ySlHvNNzQ_xvcN0kRcHcu3bFpN6HI8-bQ==
+Server: envoy
+Date: Sun, 31 May 2020 20:45:40 GMT
+X-Content-Type-Options: nosniff
+Via: HTTP/2 edgeproxy, 1.1 google, 1.1 04d5f6961d9b76b97c908d8ed9816378.cloudfront.net (CloudFront)
+Alt-Svc: clear
+Vary: Accept-Encoding

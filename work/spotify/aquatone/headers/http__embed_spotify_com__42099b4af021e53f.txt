@@ -1,0 +1,12 @@
+404 Not Found
+Set-Cookie: sp_t=67dc214180d3e901bcdfdf3b5d257b5b; path=/; expires=Thu, 30 Jul 2020 20:45:15 GMT; domain=.spotify.com; secure sp_landing=https%3A%2F%2Fopen.spotify.com%2Fembed; path=/; expires=Mon, 01 Jun 2020 20:45:15 GMT; secure; httponly sp_landing=http%3A%2F%2Fopen.spotify.com%2Fembed; expires=Mon, 01-Jun-2020 20:45:15 GMT; Max-Age=86400; path=/; domain=.spotify.com; secure sp_t=8b68eb3784c7596e9424786b1edd840a; expires=Thu, 30-Jul-2020 20:45:15 GMT; Max-Age=5184000; path=/; domain=.spotify.com; secure sp_dc=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=.spotify.com; secure wp_sso_token=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=.spotify.com; secure wp_access_token=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=.spotify.com; secure wp_expiration=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=.spotify.com; secure sp_key=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=.spotify.com; secure
+Retry-Count: 0
+Server: envoy
+Cache-Control: no-cache, private
+Date: Sun, 31 May 2020 20:45:15 GMT
+Content-Type: text/html; charset=UTF-8
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+Via: HTTP/2 edgeproxy, 1.1 google
+Alt-Svc: clear
+Vary: Accept-Encoding
